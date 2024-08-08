@@ -1,6 +1,6 @@
 # subject-heading-masking
 
-**TL;DR** Offensive Library of Congress subject headings will be masked in LibrarySearch to display more appropriate terms. However, some electronic resource records (CZ bibs and CDI records) will not have the changes applied to them. Additionally, there are limitations with how subject searching works with some subject strings. This project is a response to offensive subject headings that display to our users in the catalogue, and it requires a 2-part solution. The first part is to "mask" certain Library of Congress Subject Headings (LCSH) with more appropriate terms in the LibrarySearch display, and the second part is to add uncontrolled index terms to ensure that they are searchable in LibrarySearch.
+**TL;DR** Offensive Library of Congress subject headings were masked in the University of Toronto's LibrarySearch to display more appropriate terms. However, some electronic resource records (CZ bibs and CDI records) will not have the changes applied to them. Additionally, there are limitations with how subject searching works with some subject strings. This project is a response to offensive subject headings that display to our users in the catalogue, and it requires a 2-part solution. The first part is to "mask" certain Library of Congress Subject Headings (LCSH) with more appropriate terms in the LibrarySearch display, and the second part is to add uncontrolled index terms to ensure that they are searchable in LibrarySearch.
 
 ## Summary of the Project
 
